@@ -138,12 +138,13 @@ To add more metrics to the dashboard:
 
 ## 📸 Screenshots
 
-Screenshots of the dashboard in action will be added here. Please feel free to contribute screenshots showing:
+Screenshots of the dashboard in action:
+[Azure Dashboard](./screenshots/Screenshot 2026-06-15 114150.jpg)
+
 - Dashboard overview
 - Specific metric trends
 - Performance scenarios
 
-*To add screenshots: Create a `screenshots/` directory and reference them in this README.*
 
 ## ⚙️ Troubleshooting
 
